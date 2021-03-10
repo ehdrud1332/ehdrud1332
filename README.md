@@ -6,4 +6,4 @@
 #### 📣  &nbsp; I'm looking forward to being a happy developer
 
 * 💻  &nbsp; I’m currently learning **MERN (MongoDB, ExpressJs, React/React-Native, NodeJs)** 
-* 💻  &nbsp; For the future, I wanna become a professional **IOS developer** 
+* 💻  &nbsp; For the future, I wanna become a professional **FullStack Developer** 
