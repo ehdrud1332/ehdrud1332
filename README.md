@@ -5,5 +5,5 @@
 #### 🙌  Hi, I'm Jaemin Seong ! 
 #### 📣  &nbsp; I'm looking forward to being a happy developer
 
-* 💻  &nbsp; I’m currently learning **MERN (MongoDB, ExpressJs, React/React-Native, NodeJs)** 
+* 💻  &nbsp; I’m currently learning **MERN (MongoDB, ExpressJs, React/React-Native, NodeJS)** 
 * 💻  &nbsp; For the future, I wanna become a professional **FullStack Developer** 
